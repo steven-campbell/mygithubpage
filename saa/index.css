@@ -7,8 +7,11 @@
 }
 
 #picture {
-	transform: rotate(90deg);
-	width: 25%;
-	height: 25%;
+	width: 200px;
+	height: 200px;
+}
+
+#picture.center {
+	display: block;	
 	margin: 0 auto;
 }
