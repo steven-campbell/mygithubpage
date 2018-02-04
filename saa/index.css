@@ -1,0 +1,13 @@
+#title {
+	text-align: center;
+}
+
+#subtitle {
+	text-align: center;
+}
+
+#picture {
+	transform: rotate(90deg);
+	width: 25%;
+	height: 25%;
+}
