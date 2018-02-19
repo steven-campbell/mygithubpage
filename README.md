@@ -25,7 +25,7 @@ In high school, I was involved in many things as well!
 - Valedictorian
 - Iron Devils Robotics Team \| Shawnee High School \| Software Lead
 - National Honor Society \| Shawnee High School \| Chapter President
-- Latin Club \| Shawnee High School | Co-President
+- Latin Club \| Shawnee High School \| Co-President
 - Science League \| Shawnee High School \| Member
 - Eagle Scout \| Troop 48, Medford Lakes, NJ
 - Medford United Methodist Church
