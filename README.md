@@ -16,18 +16,18 @@ If you are an academic sophomore (or above!) you may not receive this email. Thi
 
 I believe that I would be the best candidate to lead our class.
 Currently, I am involved in the following:
-- First Year Leadership Experience (FLEX) Class of 2021 | Member
-- Student Government Association Student Outreach Committee | Committee Member
-- Honors Residential Commons | Member
+- First Year Leadership Experience (FLEX) Class of 2021 \| Member
+- Student Government Association Student Outreach Committee \| Committee Member
+- Honors Residential Commons \| Member
 - Student-Athlete Tutor
 
 In high school, I was involved in many things as well!
 - Valedictorian
-- Iron Devils Robotics Team | Shawnee High School | Software Lead
-- National Honor Society | Shawnee High School | Chapter President
-- Latin Club | Shawnee High School | Co-President
-- Science League | Shawnee High School | Member
-- Eagle Scout | Troop 48, Medford Lakes, NJ
+- Iron Devils Robotics Team \| Shawnee High School \| Software Lead
+- National Honor Society \| Shawnee High School \| Chapter President
+- Latin Club \| Shawnee High School | Co-President
+- Science League \| Shawnee High School \| Member
+- Eagle Scout \| Troop 48, Medford Lakes, NJ
 - Medford United Methodist Church
 
 If you'd like to sit down and talk to me, contact me on Facebook under Steven Campbell. Or maybe you'll run into me on the way to class or in your residence hall! 
