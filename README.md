@@ -19,7 +19,11 @@ I am most experienced in engineering fields, but can give other fields a try.
 # Contact
 
 You can find me on various social media platforms
+
 Instagram: https://www.instagram.com/stevencampbell98/
+
 Facebook Page: https://www.facebook.com/campbellsteve98/
+
 Facebook: https://www.facebook.com/profile.php?id=100006445305056
+
 Snapchat: campbell.steven
