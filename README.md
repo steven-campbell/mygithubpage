@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Steve Campbell and I'm a freshman studying engineering at Virginia Tech. 
+Hi, I'm Steve Campbell and I'm a sophomore computer engineering major at Virginia Tech. 
 
 # What I Do
 
@@ -23,5 +23,3 @@ You can find me on various social media platforms
 [Instagram](https://www.instagram.com/stevencampbell98/)
 
 [Facebook Page](https://www.facebook.com/campbellsteve98/)
-
-Snapchat: campbell.steven
