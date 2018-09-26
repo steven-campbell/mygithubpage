@@ -56,3 +56,28 @@ strong {
 	background: #565656;
 	color: #c09f80;
 }
+
+.header {
+	position: fixed;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	margin: 0 auto;
+	width: 70%;
+	display: none;
+	background: #d7cec7;
+	padding: 20px;
+	border-bottom: 1px solid #565656;
+}
+
+.header-1 {
+	display: block;
+}
+
+.header-2 {
+	height: 75px;
+}
+
+.body {
+	padding-top: 200px;
+}
